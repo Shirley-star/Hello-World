@@ -1,2 +1,3 @@
 # Hello-World
-just another repository
+step by step
+A little bit effort everyday will make a big difference!
